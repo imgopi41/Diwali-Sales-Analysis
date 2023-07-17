@@ -90,11 +90,6 @@ I have mainly Focused on Visualization tools in this project to represent what I
 **Check out Project in LinkedIn:**
 
 
-Hello Connections 👋. 
-
-
-
-This is my latest learning's from Python. This time I have come-up with "Data Analysis using Python" as well as "Data Visualization using Python". This time I have planned to bring both skills in this project, I hope I'll reach out you with this project, And This Diwali Sales is completely implemented in Jupyter Notebook. 
 
 
 
