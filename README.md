@@ -72,13 +72,23 @@ Libraries used in Python
 4. Graphs are plotted on Married Women, All the Age-Groups of both Female & Male. Shown Top 10 States, 
   Which Working sector made Highest sales in buying products like Food, Clothing and Electronic Category.
 
+**VI. Project Learnings:**
 
-**VI. Demo:**
+👉  Performed data cleaning and manipulation.
+
+👉  Performed exploratory data analysis (EDA) using Pandas, Seaborn and Matplotlib libraries.
+
+👉  Improved customer experience by identifying potential customers across different states, occupation, gender and age groups.
+
+👉  Improved sales by identifying most selling product categories & products, which can help to plan inventory & hence meet the demands.
+
+
+**VII. Demo:**
 
 ![Graphs](https://github.com/imgopi41/Diwali-Sales-Analysis/assets/99798157/ef08f62f-50c8-4dc9-8625-194899a68fec)
 
 
-**VII. Applications & Future enhancements:**
+**VIII. Applications & Future enhancements:**
 
 This is an Interactive reports on Diwali Sales. This Project is absolutely for Beginners and Intermediate Learners.
 The one who is cures to be part of Data Analysis this is absolutely for those who are likely want to learn "Python for Data Analysis".
