@@ -81,9 +81,7 @@ Libraries used in Python
 **VII. Applications & Future enhancements:**
 
 This is an Interactive reports on Diwali Sales. This is completely Beginners and Intermediate project
-
 The one who is cures to be part of Data Analysis this is absolutely for those who are likely want to learn python for Data Analysis.
-
 I have mainly Focused on Visualization tools in this project to show my skills that I have gained in "Data Visualization using Python" Course from IBM. 
 
 
