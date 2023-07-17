@@ -48,3 +48,16 @@ Q11. Show the Graph of products which made highest sales by category.
 Q12. Show the Top 10 Sold Products. 
 
 
+IV. Things i have Worked on:
+
+Libraries used in Python
+
+1. Pandas
+
+2. Numpy
+
+3. Matplotlib
+
+4. Seaborn
+
+
