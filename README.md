@@ -48,7 +48,7 @@ Q11. Show the Graph of products which made highest sales by category.
 Q12. Show the Top 10 Sold Products. 
 
 
-IV. Things i have Worked on:
+**IV. Things i have Worked on:**
 
 Libraries used in Python
 
@@ -59,5 +59,28 @@ Libraries used in Python
 3. Matplotlib
 
 4. Seaborn
+
+
+**V. Work-Flow**
+
+1. Project is implemented by using different libraries like "Pandas", "Numpy", "Matplotlib" and "Seaborn".
+ 
+2. This project is completely focused on visualizing the data.
+
+3. Diwali sales dataset was read from CSV file and the complete project is exceuted in Jupyter Notebook.
+
+4. Graphs are plotted on Married Women, All the Age-Groups of both Female & Male. Shown Top 10 States, 
+  Which Working sector made Highest sales in buying products like Food, Clothing and Electronic Category.
+
+
+**VI. Demo:**
+
+![Graphs](https://github.com/imgopi41/Diwali-Sales-Analysis/assets/99798157/ef08f62f-50c8-4dc9-8625-194899a68fec)
+
+
+
+
+
+
 
 
