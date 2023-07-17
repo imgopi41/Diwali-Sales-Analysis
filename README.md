@@ -85,6 +85,10 @@ The one who is cures to be part of Data Analysis this is absolutely for those wh
 I have mainly Focused on Visualization tools in this project to represent what I have learnt from "Data Visualization" Course.
 
 
+**This Project is also uploaded in LinkedIn,**
+
+**Check out Project in LinkedIn:**
+
 
 
 
